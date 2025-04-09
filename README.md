@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Python<br>🎯 Goals: React, Bootsrap, Python<br>🎲 Fun fact: I always found a way to achive goals</p>
+<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Django<br>🎯 Goals: React, Bootsrap, Python<br>🎲 Fun fact: I always found a way to achive goals</p>
 
 ###
 
