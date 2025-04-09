@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Facundo and I'm a FullStack Developer, from Uruguay</p>
+<p align="left">My name is Facundo and I'm a FullStack Developer, from Uruguay living in Spain since 2024</p>
 
 ###
 
