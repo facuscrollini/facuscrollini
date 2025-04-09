@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Facundo and I'm a FullStack Developer, from Uruguay</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Python<br>🎯 Goals: React, Bootsrap, Python<br>🎲 Fun fact: I always found a way to achive goals</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with VSCode</h2>
 
 ###
 
