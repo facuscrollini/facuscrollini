@@ -1,4 +1,4 @@
-<!-- <h2 align="left">Hi 👋!My name is Facundo and I'm a FullStack Developer, from Uruguay living in Spain since 2024.</h2>
+<h2 align="left">Hi 👋!My name is Facundo and I'm a FullStack Developer, from Uruguay living in Spain since 2024.</h2>
 
 ###
 
@@ -85,9 +85,9 @@
 
 </div>
 
-### -->
+###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -135,4 +135,4 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
