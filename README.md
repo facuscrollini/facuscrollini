@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋!My name is Facundo and I'm a FullStack Developer, from Uruguay living in Spain since 2024.</h2>
 
 ###
+<h4 align="center"> I enjoy contributing creativity, problem-solving, and positive energy to my team.</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=facuscrollini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=ayu-mirage&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
