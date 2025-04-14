@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!My name is Facundo and I'm a FullStack Developer, from Uruguay living in Spain since 2024.</h2>
+<h2 align="left">Hi 👋!My name is Facundo and I'm a FullStack Developer from Uruguay .</h2>
 
 ###
 <h4 align="center"> I enjoy contributing creativity, problem-solving, and positive energy to my team.</h4>
