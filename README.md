@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/ev8UUqNOIm0AAAAj/snoop-dogg-dance.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlpcDNvOXB1bjI1ODV2amhyNG83dGdnenA3bzlzcW90YnI5aWUwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
 
 ###
 
