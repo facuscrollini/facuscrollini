@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Django & MySQL<br>🎯 Goals: React, Python<br>🎲 Fun fact: I always found a way to achieve goals</p>
+<p align="left">✨ Creating bugs since 2024 <br>📚 I'm currently learning Laravel & PHP<br>🎯 Goals: React, Python<br>🎲 Fun fact: I always found a way to achieve goals</p>
 
 ###
 
